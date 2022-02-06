@@ -1,0 +1,1 @@
+I am using Ubuntu OS. First of all I need  enter the terminal, find out the private key, then install it on the server.  then i can easily work with the server via ssh.
